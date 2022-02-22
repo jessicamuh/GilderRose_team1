@@ -1,0 +1,57 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@frlowe 
+emilybache
+/
+GildedRose-Refactoring-Kata
+Public
+Code
+Issues
+2
+Pull requests
+6
+Actions
+Projects
+Wiki
+Security
+Insights
+GildedRose-Refactoring-Kata/Java/.gitignore
+
+Görge Albrecht add gradle build capabilities
+Latest commit 948852c on Nov 18, 2019
+ History
+ 2 contributors
+@tonvanbart@codecop
+13 lines (10 sloc)  98 Bytes
+   
+.idea/
+*.iml
+target/
+
+.classpath
+.project
+bin/
+.settings/
+
+# Gradle
+.gradle
+/build/
+
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
