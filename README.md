@@ -8,6 +8,7 @@ Identify what tool (s) will you use to enable excellent f-2-f-like collaboration
 > We used Microsoft Teams as our collaboration tool
 
 1. Add your Gilded Rose code to your repo (whatever language you choose--default is Java).
+> Session 1 add Junit tests achieve 100% coverage
 
 2. Mob with your teammates to add unit tests until it is safe to refactor the legacy code. To demonstrate that you worked as a mob, capture a video of your session. Upload your video to YouTube or Vimeo [optional]. Document the URL of your video in your repo's README file.
 > Session 1 video – https://youtu.be/ilZysIRO4Ng
