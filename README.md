@@ -14,8 +14,10 @@ Identify what tool (s) will you use to enable excellent f-2-f-like collaboration
 > Session 1 video – https://youtu.be/ilZysIRO4Ng
 
 3. Aim for excellent code coverage of the production code; ignore code coverage of the test code. Take a screenshot of your IDE or code coverage tool (check out link 1 and link 2) showing your project's code coverage. Include the screenshot in your git repo as a file named code-coverage.png.
+> Group1_session1_code-coverage.png.png
 
 4. Show that all your unit tests pass. Take a screenshot of the JUnit tests in your IDE, showing the list of all unit tests and their results. Or copy the console output of your JUnit tests into a text file. Include the screenshot or text file in your git repo. Name the file test-results.png or test-results.txt.
+> Group1_session1_test-results.png.png
 
 5. Mob with your teammates to refactor the Gilded Rose production code, removing as many code smells as possible, refactoring for clean code. Your refactored Gilded Rose production code should be short and concise. Commit your refactored code to your repo. To demonstrate that you worked as a mob, capture a video of your session. Upload your video to YouTube or Vimeo. Document the URL of your video in your repo's README file.
 
