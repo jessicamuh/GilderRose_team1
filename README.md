@@ -24,4 +24,5 @@ Identify what tool (s) will you use to enable excellent f-2-f-like collaboration
 
 6. Mob with your teammates to add new features. Use TDD. Your test method(s) for the new inventory item, Conjured items, must start with the word “conjured”. You have at least one test method for Conjured items, and it proves that Conjured items degrade twice as fast as ordinary items. All tests should pass. To demonstrate that you worked as a mob, capture a video of your session. Upload your video to YouTube or Vimeo. Document the URL of your video in your repo's README file.
 > Refactored Code and new conjured item is covered in Session 2
+> 
 > Session 2 video: https://youtu.be/HANv9fpmTjw
