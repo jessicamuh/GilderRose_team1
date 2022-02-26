@@ -10,6 +10,7 @@ Identify what tool (s) will you use to enable excellent f-2-f-like collaboration
 1. Add your Gilded Rose code to your repo (whatever language you choose--default is Java).
 
 2. Mob with your teammates to add unit tests until it is safe to refactor the legacy code. To demonstrate that you worked as a mob, capture a video of your session. Upload your video to YouTube or Vimeo [optional]. Document the URL of your video in your repo's README file.
+> Session 1 video – https://youtu.be/ilZysIRO4Ng
 
 3. Aim for excellent code coverage of the production code; ignore code coverage of the test code. Take a screenshot of your IDE or code coverage tool (check out link 1 and link 2) showing your project's code coverage. Include the screenshot in your git repo as a file named code-coverage.png.
 
