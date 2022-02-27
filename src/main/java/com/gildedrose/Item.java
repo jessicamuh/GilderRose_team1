@@ -2,9 +2,11 @@ package com.gildedrose;
 
 public class Item {
 
-    public String name;
+    private String name;
 
-    public int sellIn, quality;
+    private int sellIn;
+    
+    private int quality;
 
     public String getName() {
 		return name;
