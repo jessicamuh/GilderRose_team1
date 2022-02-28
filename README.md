@@ -26,3 +26,4 @@ Identify what tool (s) will you use to enable excellent f-2-f-like collaboration
 > Refactored Code and new conjured item is covered in Session 2
 > 
 > Session 2 video: https://youtu.be/HANv9fpmTjw
+> Test Coverage Conjured Item : 
